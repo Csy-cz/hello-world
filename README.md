@@ -1,5 +1,7 @@
 # hello-world
-学习Github
+橙子与乌鸫学习Github
+
+在网站上的名称是Csy-cz
 ## GitHub
 
 git：免费开源软件，功能：版本控制 => 用仓库commit
